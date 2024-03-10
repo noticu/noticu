@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noticu&label=Profile%20views&color=0e75b6&style=flat" alt="noticu" /> </p>
 
 - mail: **icu@horsefucker.org**
-- discord: **noticu**
-- xmpp: **whoisomar@macaw.me**
+- discord: **__icu**
+- xmpp: **icu@macaw.me**
 
 <p align="left">
 </p>
